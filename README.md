@@ -1,3 +1,4 @@
-# dio-desafio-github-primeiro-repositorio
- Repositório criado para o desafio de projeto 
-Desafio-de-Projeto
+# primeiro-repositorio-repositório no github 
+ Criando repositório e organizando os estudos 
+ Desafio-Dio
+ Estou cursando analise e desenvolvimento de sistemas 
